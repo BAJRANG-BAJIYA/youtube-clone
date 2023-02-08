@@ -11,12 +11,9 @@ display:flex;
 const Main=styled.div`
 flex: 7;
 height: 100vh;
-background-color: purple;
-
 `
 
 const Wrapper=styled.div`
-
 
 `
 
