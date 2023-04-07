@@ -4,13 +4,10 @@ import Navbar from "./components/Navbar";
 
 const Container =styled.div`
 display:flex;
-
-
 `
 
 const Main=styled.div`
 flex: 7;
-height: 100vh;
 `
 
 const Wrapper=styled.div`
@@ -26,6 +23,25 @@ function App() {
       <Navbar/>
 
       <Wrapper>
+        <h1>play card</h1>
+        
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
+        <h1>play card</h1>
         Video Cards
       </Wrapper>
       </Main> 
